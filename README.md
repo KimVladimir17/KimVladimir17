@@ -36,4 +36,4 @@
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kim-Miri&show_icons=true&hide_title=true)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Miri&layout=compact)
